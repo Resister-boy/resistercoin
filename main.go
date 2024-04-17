@@ -1,0 +1,3 @@
+package resistercoin
+
+func main() {}
